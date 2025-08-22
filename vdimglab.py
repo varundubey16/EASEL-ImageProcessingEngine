@@ -1726,3 +1726,4 @@ if __name__ == "__main__":
     print("address to go in ur browser- http://127.0.0.1:5000")
     app.run(debug=True)
 # imgprocess methods 
+# css styling pass 
